@@ -1,18 +1,35 @@
-### Hi there 👋 
 
-Welcome!  
 
-<!--
-**somnath3112/somnath3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Personal webpage 
 
-Here are some ideas to get you started:
+<img src="https://media.licdn.com/dms/image/D4D03AQFcWRCDCqMa8Q/profile-displayphoto-shrink_800_800/0/1676217694260?e=2147483647&v=beta&t=5foV7ElhXpf02jEJA3qw4ULv2rH7ov7uFBqfcK253w4"  width="280" height="300">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Name:** Somnath Buriuly 
+**Affiliation:** Research Scholar at [IITB-Monash Research Academy](https://www.iitbmonash.org/) 
+**Department at IITB:** Systems and Control 
+**Department at Monash:** Mechanical and Aerospace 
+
+**Areas of interests:** 
+ * Robotic systems - hardware, firmware and software 
+ * Control systems - PID, LQR, Fuzzy logic controller, etc.  
+ * Path planning in networks: (*Discrete optimisation*) MILP, LP, Benders' and Dantzig-Wolfe decomposition algorithms, Branch-and-cut, Polyhedral study, Column generation, Dynamic Programming, etc. 
+ * Motion planning and estimation: Trajectory optimisation, Extended Kalman Filter, etc. 
+ * Non-linear optimisation and learning : Deep reinforcement Learning, Genetic Algorithm, Graph neural networks, etc.  
+
+**Coding languages:** Matlab, Python, C, Embedded C, C#, C++, ~~Verilog, XML, JSON, HTML~~ 
+
+## List of research publications  
+### Journals 
+1. Paper 1 
+2. Paper 2  
+
+### Conferences and others 
+1. Paper 3 
+2. Paper 4 
+
+## List of projects 
+
+
+
+---
+> Written with [StackEdit](https://stackedit.io/).
