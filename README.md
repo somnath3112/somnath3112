@@ -5,8 +5,11 @@
 <img src="https://media.licdn.com/dms/image/D4D03AQFcWRCDCqMa8Q/profile-displayphoto-shrink_800_800/0/1676217694260?e=2147483647&v=beta&t=5foV7ElhXpf02jEJA3qw4ULv2rH7ov7uFBqfcK253w4"  width="280" height="300">
 
 **Name:** Somnath Buriuly 
+
 **Affiliation:** Research Scholar at [IITB-Monash Research Academy](https://www.iitbmonash.org/) 
+
 **Department at IITB:** Systems and Control 
+
 **Department at Monash:** Mechanical and Aerospace 
 
 **Areas of interests:** 
