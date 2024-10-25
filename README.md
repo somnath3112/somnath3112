@@ -1,10 +1,12 @@
 
 
-# Personal webpage 
+# Personal github page 
 
 <img src="https://github.com/somnath3112/somnath3112.github.io/blob/master/images/profile.jpeg"  width="280" height="400">
 
 **Name:** Dr. Somnath Buriuly 
+
+**Website:** [https://somnath3112.github.io/](https://somnath3112.github.io/)
 
 **Affiliation:** Postdoctoral fellow at [Center of Excellence in Oil, Gas and Energy](https://www.coeoge.iitb.ac.in), [IIT Bombay](https://www.iitb.ac.in)
 
