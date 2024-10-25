@@ -2,7 +2,7 @@
 
 # Personal webpage 
 
-<img src="https://media.licdn.com/dms/image/D4D03AQFcWRCDCqMa8Q/profile-displayphoto-shrink_800_800/0/1676217694260?e=2147483647&v=beta&t=5foV7ElhXpf02jEJA3qw4ULv2rH7ov7uFBqfcK253w4"  width="280" height="300">
+<img src="https://github.com/somnath3112/somnath3112.github.io/blob/master/images/profile.jpeg"  width="280" height="300">
 
 **Name:** Dr. Somnath Buriuly 
 
