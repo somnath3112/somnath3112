@@ -2,7 +2,7 @@
 
 # Personal github page 
 
-<img src="https://github.com/somnath3112/somnath3112.github.io/blob/master/images/profile.jpeg"  width="280" height="400">
+<img src="https://github.com/somnath3112/somnath3112.github.io/blob/master/images/profile.jpeg"  width="280" height="360">
 
 **Name:** Dr. Somnath Buriuly 
 
